@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: RunnerClass.MottMacRunner
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.814 s <<< FAILURE! - in RunnerClass.MottMacRunner
+Verify Search and View features in Career Search page(MottMac - Career Search Page)  Time elapsed: 0.152 s  <<< ERROR!
+java.lang.IllegalStateException: The driver executable must be a regular file: C:\Users\Mahi\eclipse-workspace\MottMac\src\test\resources\Driver
+
+Verify Search and View features in Career Search page(MottMac - Career Search Page)  Time elapsed: 0.152 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify all the links on MottMac Home Page(MottMac - Verification of Links on MottMac Home Page)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: The driver executable must be a regular file: C:\Users\Mahi\eclipse-workspace\MottMac\src\test\resources\Driver
+
+Verify all the links on MottMac Home Page(MottMac - Verification of Links on MottMac Home Page)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+

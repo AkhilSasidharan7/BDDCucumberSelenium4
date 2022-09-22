@@ -1,0 +1,6 @@
+mottMac\MottMacHome.class
+StepDefinitions\StepDefinitions.class
+mottMac\CareerSearch.class
+mottMac\SetupBrowser.class
+RunnerClass\MottMacRunner.class
+mottMac\SetupLog.class
