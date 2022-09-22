@@ -9,7 +9,6 @@ This test pack is developed in a windows environment and chrome driver is used.
 
 Java : 1.8.0_333
 
-
 Maven : 3.8.6
 
 FRAMEWORK:
